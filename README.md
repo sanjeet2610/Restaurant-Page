@@ -6,6 +6,8 @@ Hi! This is my project for the **DOM Manipulation** module. The challenge here w
 
 I also learned how to use **Webpack** to bundle my code and organize the Home, Menu, and Contact pages into separate modules.
 
+Live Demo : https://sanjeet2610.github.io/Restaurant-Page/
+
 ## 🛠️ How It Works
 
 - **Dynamic Rendering:** JavaScript creates all the HTML elements when the page loads.
